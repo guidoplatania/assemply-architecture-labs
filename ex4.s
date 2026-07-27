@@ -1,4 +1,4 @@
-         ;27     settembre ESERCITAZIONE
+       
          ;Si     realizzi un programma in assembly ARM che implementi le seguenti funzionalita.
          ;Siano  dati due vettori di interi a 32 bit A e B,
          ;contarequanti elementi di B sono presenti anche in A memorizzando il risultato finale nel registro R0
