@@ -1,4 +1,4 @@
-             ;16     FEBBRAIO
+           
              ;Si     realizzi un programma in assembly ARM che implementi le seguenti funzionalita.
              ;Siano  dati due vettori di interi a 32 bit, array A e array B.
              ;Generare un nuovo vettore occurences in cui l’elemento i-esimo
