@@ -1,4 +1,4 @@
-                       ;31     GENNAIO
+                       
                        ;Si     realizzi un programma in assembly ARM che implementi le seguenti funzionalita.
                        ;Sia    dato un vettore di interi a 32 bit:
                        ;1.     Generare due vettori, even e odd, con tutti gli elementi pari e dispari del vettore originario;
