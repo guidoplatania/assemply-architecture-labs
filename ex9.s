@@ -1,4 +1,4 @@
-                 ;ESAME  13 LUGLIO
+                
                  ;Si     realizzi un programma in assembly ARM che implementi le seguenti funzionalita.
                  ;Sia    dato un vettore di interi a 32 bit v:
                  ;1.     Generare due vettori, evens e odds, il primo con tutti gli elementi di v di
